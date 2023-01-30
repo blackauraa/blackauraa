@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @blackauraa
 - 👀 I’m interested in ... programming different projects.
-- 🌱 I’m currently learning ... HTML/CSS/JavaScript
+- 🌱 I’m currently learning ... React JS
 - 💞️ I’m looking to collaborate on ... any front end projects.
 - 📫 How to reach me ... Discord: blackaura #9064
 
